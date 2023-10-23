@@ -1,0 +1,12 @@
+div{
+ align-items: center;
+ text-align: center;   
+}
+div p{
+    font-size: 80px;
+    color: green;
+}
+div img{
+    width: 400px;
+    height: 500px;
+}
